@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="font-size:100px">
   为了搞张育境我太难了
 </p>
 <div align="center">
