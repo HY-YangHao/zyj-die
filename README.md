@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 style="color:red">为了搞张育境我太难了</h1>
+  为了搞张育境我太难了
 </p>
 <div align="center">
 
