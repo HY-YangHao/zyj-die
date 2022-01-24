@@ -345,7 +345,7 @@ function shareText(score) {
     SubmitResults();
     if (score <= 49) return '你不能导吗？';
     if (score <= 99) return '导的还是太少了啊';
-    if (score <= 149) return '还行，赶上阳澔了';
+    if (score <= 149) return '导的再快点！';
     if (score <= 199) return 'woc,nb666';
     return '人？';
 }
