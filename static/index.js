@@ -343,10 +343,10 @@ function shareText(score) {
         return '倒计时多了' + ((deviation_time / 1000) - 20).toFixed(2) + "s";
     }
     SubmitResults();
-    if (score <= 49) return '试着好好练一下？';
-    if (score <= 99) return 'TCL';
-    if (score <= 149) return 'TQL';
-    if (score <= 199) return '您';
+    if (score <= 49) return '你不能导吗？';
+    if (score <= 99) return '导的还是不够多啊';
+    if (score <= 149) return '还可以，赶上阳澔了';
+    if (score <= 199) return 'woc，NB666';
     return '人？';
 }
 
